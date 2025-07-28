@@ -36,8 +36,8 @@ i)Prerequisites:
 
 ii)Clone the Repository:
   First, clone this Git repository to your local machine:
-  git clone <your-repository-url>
-  cd <your-repository-name>
+  git clone <https://github.com/ChippaRevanth/Adobe-1B.git>
+  cd <Adobe-1B>
   
 iii)Build the Docker Image:
   From the root directory of the cloned repository (where the Dockerfile resides), build the Docker image. This process will    install all dependencies and download the sentence-transformers model.
